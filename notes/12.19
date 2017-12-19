@@ -1,0 +1,11 @@
+# Octave
+AI
+ 
+disp ：输出值
+sprintf ：打印字符串
+format  dataset :按照格式输出
+[;;]：矩阵
+eg: A=1；0.1；2  以1开始，0.1为步长，到2的1行11列矩阵
+eg: A=1:6  以1到6的6个整数
+eg: C=x*ones(行，列)（1）    zeros() (0)
+eg: rand(行，列)（0~！）
