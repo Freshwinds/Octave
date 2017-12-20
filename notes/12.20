@@ -1,0 +1,22 @@
+<h3>data computing</h3>
+
+.* 点乘
+[A;A] ;另起一行  [A A]  空格置于右边
+exp(A)  幂次
+
+<h3>绘图</h3>
+
+plot(x,y):三角函数
+hold on  :在上一个figure上绘制
+figure(1):plot(x,y1)
+figyre(2):plot(x,y2)
+同时 绘制两个figure
+subplot（n,m,use）  
+改变 坐标轴 axis
+imagesc(A):不同的位置对应不同的颜色
+imagesc(A),colorbar,colormap gray  ：灰度
+
+<h3>语句</h3>
+
+for:   for i=1:10 ，。。。； end；
+% octave search path(advanced/optional)：添加搜索路径
